@@ -1,0 +1,2 @@
+# Make markdown files detectable by linguist
+*.md linguist-detectable
