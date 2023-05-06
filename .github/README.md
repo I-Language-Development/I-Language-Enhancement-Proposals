@@ -7,15 +7,15 @@ I-Language Enhancement Proposals (ILEPs) are proposals to make the language bett
 |                                                                  Link | Description                    |
 | --------------------------------------------------------------------: | :----------------------------- |
 |                                                                   000 | **Intro**                      |
-|                                                   [001](Intro/001.md) | Index                          |
-|                                                   [002](Intro/002.md) | What is this language?         |
-|                                                   [003](Intro/003.md) | What is this language **not**? |
-|                                                   [004](Intro/004.md) | (Build-in) Modules             |
-|                                                   [005](Intro/005.md) | Examples                       |
+|                                                   [001](../Intro/001.md) | Index                          |
+|                                                   [002](../Intro/002.md) | What is this language?         |
+|                                                   [003](../Intro/003.md) | What is this language **not**? |
+|                                                   [004](../Intro/004.md) | (Build-in) Modules             |
+|                                                   [005](../Intro/005.md) | Examples                       |
 | [006](https://i-language-rust.readthedocs.io/en/latest/CONTRIBUTING/) | Contributing                   |
-|                                                   [007](Intro/007.md) | Decisions                      |
-|                                                   [008](Intro/008.md) | Style guide                    |
-|                                                   [009](Intro/009.md) | Docstrings                     |
+|                                                   [007](../Intro/007.md) | Decisions                      |
+|                                                   [008]../(Intro/008.md) | Style guide                    |
+|                                                   [009](../Intro/009.md) | Docstrings                     |
 |                                                                   010 | **Main proposals**             |
 
 ## How to add ILEPs?
