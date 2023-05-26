@@ -1,22 +1,33 @@
-# I-Language-Enhancement-Proposals
+# Index
 
-I-Language Enhancement Proposals (ILEPs) are proposals to make the language better.
+**I** **L**anguage **E**nhancement **P**roposals (ILEPs) are requests for change and guides for editors. This could be a request, for a new feature (new features should always be requested as an ILEP, when they are big enough).
+
+## Namespaces
+
+- `000` - `099` Internal things
+- `100` - `299` Module changes
+- `300` - `999` Everything else
+
+> **Note**
+>The numbering scheme might change as the language grows.
 
 ## List
 
 |                                                                  Link | Description                    |
 | --------------------------------------------------------------------: | :----------------------------- |
 |                                                                   000 | **Intro**                      |
-|                                                   [001](../Intro/001.md) | Index                          |
-|                                                   [002](../Intro/002.md) | What is this language?         |
-|                                                   [003](../Intro/003.md) | What is this language **not**? |
-|                                                   [004](../Intro/004.md) | (Build-in) Modules             |
-|                                                   [005](../Intro/005.md) | Examples                       |
+|                                                    **[001](Intro/001.md)** | Index                          |
+|                                                        [002](Intro/002.md) | What is this language?         |
+|                                                        [003](Intro/003.md) | What is this language **not**? |
+|                                                   [004](Intro/004.md) | (Build-in) Modules             |
+|                                                   [005](Intro/005.md) | Examples                       |
 | [006](https://i-language-rust.readthedocs.io/en/latest/CONTRIBUTING/) | Contributing                   |
-|                                                   [007](../Intro/007.md) | Decisions                      |
-|                                                   [008]../(Intro/008.md) | Style guide                    |
-|                                                   [009](../Intro/009.md) | Docstrings                     |
-|                                                                   010 | **Main proposals**             |
+|                                                   [007](Intro/007.md) | Decisions                      |
+|                                                   [008](Intro/008.md) | Style guide                    |
+|                                                   [009](Intro/009.md) | Docstrings                     |
+|                                                   [010](Intro/010.md) | Path conventions               |
+|                                                                   100 | **Main proposals**             |
+|                                                    [101](Main/101.md) | Build-in package manager       |
 
 ## How to add ILEPs?
 
