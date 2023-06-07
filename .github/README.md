@@ -16,19 +16,19 @@
 |                                                                  Link | Description                    |
 | --------------------------------------------------------------------: | :----------------------------- |
 |                                                                   000 | **Intro**                      |
-|                                               **[001](Intro/001.md)** | Index                          |
-|                                                   [002](Intro/002.md) | What is this language?         |
-|                                                   [003](Intro/003.md) | What is this language **not**? |
-|                                                   [004](Intro/004.md) | (Build-in) Modules             |
-|                                                   [005](Intro/005.md) | Examples                       |
+|                                            **[001](../Intro/001.md)** | Index                          |
+|                                                [002](../Intro/002.md) | What is this language?         |
+|                                                [003](../Intro/003.md) | What is this language **not**? |
+|                                                [004](../Intro/004.md) | (Build-in) Modules             |
+|                                                [005](../Intro/005.md) | Examples                       |
 | [006](https://i-language-rust.readthedocs.io/en/latest/CONTRIBUTING/) | Contributing                   |
-|                                                   [007](Intro/007.md) | Decisions                      |
-|                                                   [008](Intro/008.md) | Style guide                    |
-|                                                   [009](Intro/009.md) | Docstrings                     |
-|                                                   [010](Intro/010.md) | Path conventions               |
-|                                                        [011](/011.md) | Git specific conventions       |
+|                                                [007](../Intro/007.md) | Decisions                      |
+|                                                [008](../Intro/008.md) | Style guide                    |
+|                                                [009](../Intro/009.md) | Docstrings                     |
+|                                                [010](../Intro/010.md) | Path conventions               |
+|                                                [011](../Intro/011.md) | Git specific conventions       |
 |                                                                   100 | **Main proposals**             |
-|                                                    [101](Main/101.md) | Build-in package manager       |
+|                                                 [101](../Main/101.md) | Build-in package manager       |
 
 ## How to add ILEPs?
 
