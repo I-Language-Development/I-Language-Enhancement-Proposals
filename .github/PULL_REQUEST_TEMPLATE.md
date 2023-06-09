@@ -5,6 +5,7 @@ Summary of all the changes made.
 Closes #(issue proposal number).
 
 ## Type of change
+
 <!-- Select the relevant option(s) -->
 
 - [ ] Added proposal

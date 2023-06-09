@@ -4,7 +4,6 @@ about: Create a new ILEP
 title: "[PROPOSAL-NUMBER] TITLE"
 labels: Proposal
 assignees: ElBe-Plaq
-
 ---
 
 **Describe the proposal**

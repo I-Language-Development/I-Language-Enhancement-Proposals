@@ -9,7 +9,7 @@
 - `300` - `999` Everything else
 
 > **Note**
->The numbering scheme might change as the language grows.
+> The numbering scheme might change as the language grows.
 
 ## List
 
