@@ -5,8 +5,7 @@
 ## Namespaces
 
 - `000` - `099` Internal things
-- `100` - `299` Module changes
-- `300` - `999` Everything else
+- `100` - `999` Main proposals
 
 > **Note**
 > The numbering scheme might change as the language grows.
@@ -29,6 +28,7 @@
 |                                                [011](../Intro/011.md) | Git specific conventions       |
 |                                                                   100 | **Main proposals**             |
 |                                                 [101](../Main/101.md) | Build-in package manager       |
+|                                                 [102](../Main/102.md) | Make semicolons necessary      |
 
 ## How to add ILEPs?
 
